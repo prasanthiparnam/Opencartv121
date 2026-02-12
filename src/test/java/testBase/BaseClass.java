@@ -51,7 +51,7 @@ public Properties p;
 			//os
 			if(os.equalsIgnoreCase("windows"))
 			{
-				capabilities.setPlatform(Platform.WIN10);
+				capabilities.setPlatform(Platform.WIN11);
 			}
 			else if (os.equalsIgnoreCase("mac"))
 			{
